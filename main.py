@@ -1,3 +1,5 @@
+print("enter min to max range.")
+
 x=int(input("enter min range: "))
 y=int(input("enter max range: "))
 sqr=[]
